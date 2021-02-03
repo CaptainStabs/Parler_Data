@@ -3,6 +3,6 @@
 68k Parler Geotags.txt is the raw extraction.
 
 # Scripts
-I learned *after* writing all these scripts that someone else had already done it, but better
+I learned *after* writing all these scripts that someone else had already done it, and done it better
 
 geo2.py - Extracts coordinates from all the metadata
